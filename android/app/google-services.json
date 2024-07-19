@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "1059083323815",
+    "project_id": "tekmob-kelompok",
+    "storage_bucket": "tekmob-kelompok.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1059083323815:android:272aacd073cbe3eea74e82",
+        "android_client_info": {
+          "package_name": "com.example.flutter_application_2"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAb8mCxEJlZRo7-Fo_VKOAZ6sWSE1_I8Vk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
